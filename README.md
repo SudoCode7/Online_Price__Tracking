@@ -23,6 +23,13 @@ service.[google for your particular mailing service, gmail is given below]
 For google, go to Manage your account in Profile -> Security tab -> Scroll
 Down to Less secure apps -> enable it.
 
+Web Driver-
+Just go on google and check your browser version. -> Copying the version,
+download your version of web driver from google and paste it in the same 
+folder as of the program.
+-> If you are using Edge name it as "MicrosoftWebDriver".
+-> Or if you are using Chrome name it as "ChromeDriver".
+
 
 *************JUST ENTER IN THE FIELDS WHEREVER ASKED**************
                  
