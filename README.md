@@ -33,8 +33,9 @@ folder as of the program.
 
 *************JUST ENTER IN THE FIELDS WHEREVER ASKED**************
                  
- 
-#@author: SudoCode7 <h1> tag
+<h1> tag 
+@author: SudoCode7 
+  
 #@version: 1.0
                ENJOY AND FEEL FREE TO BUY ME A COFFEE
              
