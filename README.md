@@ -34,7 +34,7 @@ folder as of the program.
 *************JUST ENTER IN THE FIELDS WHEREVER ASKED**************
                  
 
-<h1>@author: SudoCode7 <h1/>
+<h1>@author: SudoCode7 </h1>
   
 #@version: 1.0
                ENJOY AND FEEL FREE TO BUY ME A COFFEE
