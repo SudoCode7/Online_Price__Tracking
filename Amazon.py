@@ -14,11 +14,11 @@ time_period = int(input("Enter the number of hours, you want the price to be che
 print("\n")
 agent = input("Enter your brower agent, if you are not aware of that just GOOGLE 'My User Agent', while I wait............")
 print("\n")
-# ENTER YOUR USER AGENT BELOW, IF NOT SURE, SURF 'MY USER AGENT' ON GOOGLE
+# YOUR USER AGENT, IF NOT SURE, SURF 'MY USER AGENT' ON GOOGLE
 HEADERS = {"User-Agent": agent}
-PRICE_VALUE_WANTED = float(input("What price do you except? "))  # ENTER THE PRICE VALUE YOU WANT TO BE CHECKED
+PRICE_VALUE_WANTED = float(input("What price do you except? "))  # THE PRICE VALUE YOU WANT TO BE CHECKED
 print("\n")
-EMAIL_ADDRESS = input("Enter your gmail address ")  # ENTER YOUR EMAIL ADDRESS
+EMAIL_ADDRESS = input("Enter your gmail address ")  # YOUR EMAIL ADDRESS
 print("Lastly enter your password, don't worry it's not going to be used anywhere and will only")
 Password = input("be used by the bot to login on your behalf(Don't believe me, check the code yourself :-))   ")
 print("\n")
@@ -67,9 +67,9 @@ def sendEmail():
     mailtext = 'Subject:' + subject + '\n\n' + title + '"- Rs' + price1 + '\n' + URL  # RS CAN BE CHANGED TO YOUR CURRENCY
 
     server = smtplib.SMTP(host='smtp.gmail.com', port=587)  # IF USING GOOGLE, DON'T TOUCH THIS FIELD OR ELSE
-    server.ehlo()  # SURF FOR REQUIRED EMAIL SERVICE AND IT'S PORT
+    server.ehlo()                                           # SURF FOR REQUIRED EMAIL SERVICE AND IT'S PORT
     server.starttls()
-    server.login(EMAIL_ADDRESS, Password)  # ENTER EMAIL-ID PASSWORD IN DOUBLE QUOTES GIVEN
+    server.login(EMAIL_ADDRESS, Password)  # EMAIL-ID PASSWORD IN DOUBLE QUOTES GIVEN
     server.sendmail(EMAIL_ADDRESS, EMAIL_ADDRESS, mailtext)
     print('Email Sent!\n\n')
     pass
