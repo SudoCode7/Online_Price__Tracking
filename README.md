@@ -8,7 +8,7 @@ It can be deployed on any server(like rasberry pi, arduino etc.) to make
 full use of, or it can also be used on your daily machine(computer[WILL
 TAKE A SUBSTANTIAL RESOURCE IN DAILY LIFE]).
 
-Prerequisites--
+<h2>Prerequisites--</h2>
 
 Libraries-
 1. bs4
@@ -36,7 +36,7 @@ folder as of the program.
 
 <h1>@author: SudoCode7 
   
-#@version: 1.0</h1>
+@version: 1.0</h1>
 
                ENJOY AND FEEL FREE TO BUY ME A COFFEE
              
