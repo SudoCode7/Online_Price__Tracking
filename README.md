@@ -33,4 +33,12 @@ folder as of the program.
 
 *************JUST ENTER IN THE FIELDS WHEREVER ASKED**************
                  
+ 
+ @author: SudoCode7
+@version: 1.0
                ENJOY AND FEEL FREE TO BUY ME A COFFEE
+             
+        
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/SudoCode7)        
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/SudoCode7)
+
