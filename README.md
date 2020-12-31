@@ -10,20 +10,20 @@ TAKE A SUBSTANTIAL RESOURCE IN DAILY LIFE]).
 
 <h2>Prerequisites--</h2>
 
-Libraries-
+<h3>Libraries-</h3>
 1. bs4
 2. time
 3. requests
 4. smtplib
 
-Email Service-
+<h3>Email Service-</h3>
 Just go and enable access to less secure apps in settings of your mailing
 service.[google for your particular mailing service, gmail is given below]
 
 For google, go to Manage your account in Profile -> Security tab -> Scroll
 Down to Less secure apps -> enable it.
 
-Web Driver-
+<h3>Web Driver-</h3>
 Just go on google and check your browser version. -> Copying the version,
 download your version of web driver from google and paste it in the same 
 folder as of the program.
