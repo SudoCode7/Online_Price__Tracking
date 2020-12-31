@@ -16,7 +16,7 @@ EMAIL_ADDRESS = "jakshat70@gmail.com" #ENTER YOUR EMAIL ADDRESS
 
 page = requests.get(URL, headers=HEADERS)
 soup = BeautifulSoup(page.content, 'html.parser')
-title = find('div', attrs={'class':'_3wU53n'})
+title = soup.find('div', attrs={'class':'_3wU53n'})
 try:
     price1 = soup.find(id='priceblock_dealprice').get_text().strip()[0:-3]
 except:
