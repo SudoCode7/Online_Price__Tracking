@@ -7,6 +7,7 @@ down than your expected value or equals to.
 It can be deployed on any server(like rasberry pi, arduino etc.) to make
 full use of, or it can also be used on your daily machine(computer[WILL
 TAKE A SUBSTANTIAL RESOURCE IN DAILY LIFE]).
+<h3>THIS PROGRAM CAN DIRECTLY RUN ON TERMINAL WINDOW WITH ALL APPROPRIATE LIBRARIES</h3>
 
 <h2>Prerequisites--</h2>
 
