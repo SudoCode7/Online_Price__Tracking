@@ -28,7 +28,7 @@ Just go on google and check your browser version. -> Copying the version,
 download your version of web driver from google and paste it in the same 
 folder as of the program.
 -> If you are using Edge name it as "MicrosoftWebDriver".
--> Or if you are using Chrome name it as "ChromeDriver".
+-> Or using Chrome name it as "ChromeDriver".
 
 
 *************JUST ENTER IN THE FIELDS WHEREVER ASKED**************
