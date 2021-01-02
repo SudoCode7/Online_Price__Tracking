@@ -65,7 +65,7 @@ def Display_Price():
 def sendEmail():
     subject = "Amazon Price Dropped!"
     mailtext = 'Subject:' + subject + '\n\n' + title + '"- Rs' + price1 + '\n' + URL  # RS CAN BE CHANGED TO YOUR CURRENCY
-
+    title1 = title.encode('utf-8')
     server = smtplib.SMTP(host='smtp.gmail.com', port=587)  # IF USING GOOGLE, DON'T TOUCH THIS FIELD OR ELSE
     server.ehlo()                                           # SURF FOR REQUIRED EMAIL SERVICE AND IT'S PORT
     server.starttls()
