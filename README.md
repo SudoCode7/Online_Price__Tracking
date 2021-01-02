@@ -24,7 +24,7 @@ service.[google for your particular mailing service, gmail is given below]
 For google, go to Manage your account in Profile -> Security tab -> Scroll
 Down to Less secure apps -> enable it.
 
-<h3>JUST DON'T DO ANYTHING STUPID AND I AM NOT RESPONIBLE FOR ANY OF YOUR STUPID STUFF</h3>
+<h3>WARNING: I AM NOT RESPONIBLE FOR ANY OF YOUR STUPID STUFF</h3>
 
 
 *************JUST ENTER IN THE FIELDS WHEREVER ASKED**************
