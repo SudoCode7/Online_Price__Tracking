@@ -7,8 +7,8 @@ import requests
 from bs4 import BeautifulSoup
 from mailjet_rest import Client
 import time
-api_key = '' #Enter your api key here
-api_secret = '' #Enter your api secret here
+api_key = '6576576hgt' #Enter your api key here
+api_secret = 'uoh7gvtgtf' #Enter your api secret here
 mailjet = Client(auth=(api_key, api_secret), version='v3.1')
 URL = input("Enter the product URL= ")
 time_period = int(input("Enter the number of hours, you want the price to be checked in= "))
