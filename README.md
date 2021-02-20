@@ -13,9 +13,10 @@ TAKE A SUBSTANTIAL RESOURCE IN DAILY LIFE]).
 
 <h3>Libraries-</h3>
 1. bs4<br/>
-2. time
-3. requests
-4. smtplib
+2. time<br/>
+3. requests<br/>
+4. smtplib<br/>
+5. Go on the link https://www.mailjet.com/ , make an account; copy the api and secret key; paste in the program as commented.
 
 <h3>Email Service-</h3>
 Just go and enable access to less secure apps in settings of your mailing
