@@ -12,7 +12,7 @@ TAKE A SUBSTANTIAL RESOURCE IN DAILY LIFE]).
 <h2>Prerequisites--</h2>
 
 <h3>Libraries-</h3>
-1. bs4\n
+1. bs4/n
 2. time
 3. requests
 4. smtplib
