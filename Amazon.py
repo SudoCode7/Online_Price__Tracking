@@ -1,6 +1,6 @@
 '''
-THIS PROGRAM CHECKS THE PRODUCT PRICE EVERY 8 HRS ON AMAZON.
-ENTER THE FOLLOWING FIELDS WHEREVER COMMENTED........
+THIS PROGRAM CHECKS THE PRODUCT PRICE EVERY x(time entered by you) HRS ON AMAZON.
+ENTER THE FOLLOWING FIELDS WHEREVER ASKED........
 THIS PROGRAM CHECKS 3 TIMES FOR WHATEVER TIME PERIOD IS ENTERED.
 '''
 import requests
@@ -13,7 +13,7 @@ mailjet = Client(auth=(api_key, api_secret), version='v3.1')
 URL = input("Enter the product URL= ")
 time_period = int(input("Enter the number of hours, you want the price to be checked in= "))
 print("\n")
-PRICE_VALUE_WANTED = float(input("What price do you except? "))  # ENTER THE PRICE VALUE YOU WANT TO BE CHECKED
+PRICE_VALUE_WANTED = float(input("What price do you expect? "))  # ENTER THE PRICE VALUE YOU WANT TO BE CHECKED
 print("\n")
 EMAIL_ADDRESS = input("Enter your gmail address ")  # ENTER YOUR EMAIL ADDRESS
 page = requests.get(URL)
