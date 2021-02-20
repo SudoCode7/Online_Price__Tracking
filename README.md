@@ -1,11 +1,11 @@
 Hey Guys, :-)
 The idea behind this project actually struck me when I was planning to buy 
-Amazon fire TV stick and didn't have the appropriate budget. So I came up
+Amazon fire TV stick and didn't have the enough budget. So I came up
 with this idea to program this bot which emails me whenever the price goes
 down than your expected value or equals to.
 
-It can be deployed on any server(like rasberry pi, arduino etc.) to make
-full use of, or it can also be used on your daily machine(computer[WILL
+It can be deployed on any cloud server(like rasberry pi, arduino, AWS, Goggle cloud etc.)
+to make full use of, or it can also be used on your daily machine using TMUX(computer[WILL
 TAKE A SUBSTANTIAL RESOURCE IN DAILY LIFE]).
 <h3>THIS PROGRAM CAN DIRECTLY RUN ON TERMINAL WINDOW WITH ALL APPROPRIATE LIBRARIES</h3>
 
@@ -32,7 +32,7 @@ Down to Less secure apps -> enable it.
 
 <h1>@author: SudoCode7 
   
-@version: 1.0</h1>
+@version: 2.0</h1>
 
                ENJOY AND FEEL FREE TO BUY ME A COFFEE
              
