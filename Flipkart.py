@@ -1,5 +1,5 @@
 '''
-THIS PROGRAM CHECKS THE PRODUCT PRICE EVERY 8 HRS ON FLIPKART.
+THIS PROGRAM CHECKS THE PRODUCT PRICE EVERY x(time entered by you) HRS ON FLIPKART.
 THIS PROGRAM CHECKS 3 TIMES FOR WHATEVER TIME PERIOD IS ENTERED.
 '''
 import requests
@@ -8,13 +8,13 @@ import smtplib
 import time
 from mailjet_rest import Client
 import os
-api_key = '1234567890SDq8h38'  # Enter your api key here
-api_secret = 'Sahu2nuovselrh'  # Enter your api secret key here
+api_key = '1234567890SJHq8h38'  # Enter your api key here
+api_secret = 'Sahu2kluovselrh'  # Enter your api secret key here
 mailjet = Client(auth=(api_key, api_secret), version='v3.1')
 URL = input("Enter the product URL= ")
 time_period = int(input("Enter the number of hours, you want the price to be checked in= "))
 print("\n")
-PRICE_VALUE_WANTED = float(input("What price do you except? "))  # ENTER THE PRICE VALUE YOU WANT TO BE CHECKED
+PRICE_VALUE_WANTED = float(input("What price do you expect? "))  # ENTER THE PRICE VALUE YOU WANT TO BE CHECKED
 print("\n")
 EMAIL_ADDRESS = input("Enter your gmail address ")  # ENTER YOUR EMAIL ADDRESS
 print("\n")
