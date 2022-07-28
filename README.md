@@ -1,12 +1,12 @@
 Hey Guys, :-)
-The idea behind this project actually struck me when I was planning to buy 
-Amazon fire TV stick and didn't have the enough budget. So I came up
+The idea behind this project struck me when I was planning to buy 
+Amazon fire TV stick and didn't have enough budget to fully coverup those expenses on my own. So I came up
 with this idea to program this bot which emails me whenever the price goes
 down than your expected value or equals to.
 
 It can be deployed on any cloud server(like rasberry pi, arduino, AWS, Goggle cloud etc.)
-to make full use of, or it can also be used on your daily machine using TMUX(computer[WILL
-TAKE A SUBSTANTIAL RESOURCE IN DAILY LIFE]).
+to make full use of, or it can also be used on your daily machine using TMUX(computer[WARNING: WILL
+CONSUME A SUBSTANTIAL RESOURCE IN YOUR DAILY LIFE]).
 <h3>THIS PROGRAM CAN DIRECTLY RUN ON TERMINAL WINDOW WITH ALL APPROPRIATE LIBRARIES</h3>
 
 <h2>Prerequisites--</h2>
