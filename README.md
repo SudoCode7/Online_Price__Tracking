@@ -20,7 +20,7 @@ CONSUME A SUBSTANTIAL RESOURCE IN YOUR DAILY LIFE]).
 
 <h3>Email Service-</h3>
 Go on your email provider and enable access to less secure apps in settings of your mailing
-service.[If you are using google for your mailing service, gmail's step by step guide is given below...]
+service. [If you are using google as your mail service provider, gmail's step by step guide is given below...]
 
 For google, go to <br/>-> Manage account in Profile<br/> -> Security tab<br/> -> Scroll
 Down to Less secure apps<br/> -> enable it.
