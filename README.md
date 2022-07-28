@@ -25,10 +25,12 @@ service.[If you are using google for your mailing service, gmail's step by step 
 For google, go to <br/>-> Manage account in Profile<br/> -> Security tab<br/> -> Scroll
 Down to Less secure apps<br/> -> enable it.
 
+*NOW YOU ARE FULLY READY TO DEPLOY THIS PROGRAM ON THE CLOUD OF YOUR CHOICE, ANOTHER TOOL WHICH WILL COME IN HANDY WILL BE 'nohup'*
+
 ##### WARNING: I AM NOT RESPONIBLE FOR ANY OF YOUR STUPID STUFF WITH RESPECT TO THIS PROGRAM
 
 
-*************JUST ENTER IN THE FIELDS WHEREVER ASKED**************
+*************JUST ENTER IN THE FIELDS WHEREVER AND WHEREEVER ASKED IN THE PROGRAM**************
                  
 
 <h1>@author: SudoCode7 
