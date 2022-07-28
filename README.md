@@ -19,13 +19,13 @@ CONSUME A SUBSTANTIAL RESOURCE IN YOUR DAILY LIFE]).
 5. Go on the link https://www.mailjet.com/ , make an account; copy the api and secret key; paste in the program where commented.
 
 <h3>Email Service-</h3>
-Just go and enable access to less secure apps in settings of your mailing
-service.[google for your particular mailing service, gmail is given below]
+Go on your email provider and enable access to less secure apps in settings of your mailing
+service.[If you are using google for your mailing service, gmail's step by step guide is given below...]
 
-For google, go to Manage your account in Profile -> Security tab -> Scroll
-Down to Less secure apps -> enable it.
+For google, go to <br/>Manage your account in Profile<br/> -> Security tab<br/> -> Scroll
+Down to Less secure apps<br/> -> enable it.
 
-<h3>WARNING: I AM NOT RESPONIBLE FOR ANY OF YOUR STUPID STUFF WITH RESPECT TO THIS PROGRAM</h3>
+### WARNING: I AM NOT RESPONIBLE FOR ANY OF YOUR STUPID STUFF WITH RESPECT TO THIS PROGRAM
 
 
 *************JUST ENTER IN THE FIELDS WHEREVER ASKED**************
